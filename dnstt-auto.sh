@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ============================================
-BLOOM SHH DNSTT AUTO INSTALL (INTERACTIVE TDOMAIN)
-Stable • Clean • Production ready
+BLOOM SHH DNSTT AUTO INSTALL 
 NO AUTO RESTART • NO AUTO REBOOT
 ============================================
 
